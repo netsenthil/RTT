@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="RTT Formulas" max_length="40" name="x_98145_rtt_rtt_formulas" type="collection">
+        <element display="true" label="RTTDocumentID" mandatory="true" max_length="20" name="rttdocumentid" read_only="true" type="string"/>
+    </element>
+</database>
