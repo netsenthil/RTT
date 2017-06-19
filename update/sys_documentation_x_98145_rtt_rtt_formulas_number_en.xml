@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="rttdocumentid" label="RTTDocumentID" language="en" table="x_98145_rtt_rtt_formulas">
+    <sys_documentation element="number" label="RTTDocumentID" language="en" table="x_98145_rtt_rtt_formulas">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>rttdocumentid</element>
+            <element>number</element>
             <help/>
             <hint/>
             <label>RTTDocumentID</label>
@@ -11,18 +11,18 @@
             <plural>RTTDocumentIDs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-19 11:25:09</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>dc7e0d04db233200e020f8fdbf96198f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_created_on>2017-06-19 12:30:28</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>386d918cdb233200e020f8fdbf9619db</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>RTTDocumentID</sys_name>
             <sys_package display_value="RTT" source="x_98145_rtt">b77c0dc0db233200e020f8fdbf9619e1</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="RTT">b77c0dc0db233200e020f8fdbf9619e1</sys_scope>
-            <sys_update_name>sys_documentation_x_98145_rtt_rtt_formulas_rttdocumentid_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_98145_rtt_rtt_formulas_number_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-19 11:25:09</sys_updated_on>
+            <sys_updated_on>2017-06-19 12:30:54</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

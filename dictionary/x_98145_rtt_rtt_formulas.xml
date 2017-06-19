@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="RTT Formulas" max_length="40" name="x_98145_rtt_rtt_formulas" type="collection">
-        <element display="true" label="RTTDocumentID" mandatory="true" max_length="20" name="rttdocumentid" read_only="true" type="string"/>
+        <element label="New IPC" max_length="20" name="new_ipc" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="RTTDocumentID" max_length="40" name="number" type="string"/>
+        <element label="Original IPC" max_length="20" name="original_ipc" type="string"/>
+        <element choice="1" display="true" label="RTT Status" mandatory="true" max_length="20" name="rtt_status" read_only="true" type="choice">
+            <choice>
+                <element label="Creative" value="Creative"/>
+                <element label="Pre-Screen" value="Pre-Screen"/>
+            </choice>
+        </element>
+        <element label="RTT Title" mandatory="true" max_length="20" name="rtt_title" type="string"/>
     </element>
 </database>
