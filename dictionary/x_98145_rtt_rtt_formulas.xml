@@ -5,6 +5,8 @@
         <element label="New IPC" max_length="20" name="new_ipc" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="RTTDocumentID" max_length="40" name="number" type="string"/>
         <element label="Original IPC" max_length="20" name="original_ipc" type="string"/>
+        <element label="PreScreen Prim" max_length="32" name="prescreen_prim" reference="sys_user" type="reference"/>
+        <element label="PreScreen Sec" max_length="32" name="prescreen_sec" reference="sys_user" type="reference"/>
         <element choice="1" label="RTT Status" mandatory="true" max_length="20" name="rtt_status" read_only="true" type="choice">
             <choice>
                 <element label="Creative" value="Creative"/>
@@ -14,6 +16,12 @@
         <element label="RTT Title" mandatory="true" max_length="20" name="rtt_title" type="string"/>
         <index name="index">
             <element name="initiative_profile"/>
+        </index>
+        <index name="index2">
+            <element name="prescreen_prim"/>
+        </index>
+        <index name="index3">
+            <element name="prescreen_sec"/>
         </index>
     </element>
 </database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="prescreen_prim" label="PreScreen Prim" language="en" table="x_98145_rtt_rtt_formulas">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>prescreen_prim</element>
+            <help/>
+            <hint/>
+            <label>PreScreen Prim</label>
+            <language>en</language>
+            <name>x_98145_rtt_rtt_formulas</name>
+            <plural>PreScreen Prims</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-20 14:20:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1630c7d0db233200e020f8fdbf96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PreScreen Prim</sys_name>
+            <sys_package display_value="RTT" source="x_98145_rtt">b77c0dc0db233200e020f8fdbf9619e1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="RTT">b77c0dc0db233200e020f8fdbf9619e1</sys_scope>
+            <sys_update_name>sys_documentation_x_98145_rtt_rtt_formulas_prescreen_prim_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-20 14:20:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
