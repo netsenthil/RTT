@@ -8,7 +8,7 @@
         <display_2/>
         <display_date/>
         <filter/>
-        <glyph/>
+        <glyph>users</glyph>
         <hint/>
         <kb_article/>
         <kb_category/>
@@ -27,7 +27,7 @@
         <sys_created_on>2017-06-19 11:54:24</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>f3e45d48db233200e020f8fdbf9619e8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Customer Search</sys_name>
         <sys_package display_value="RTT" source="x_98145_rtt">b77c0dc0db233200e020f8fdbf9619e1</sys_package>
         <sys_policy/>
@@ -35,7 +35,7 @@
         <sys_scope display_value="RTT">b77c0dc0db233200e020f8fdbf9619e1</sys_scope>
         <sys_update_name>sp_rectangle_menu_item_f3e45d48db233200e020f8fdbf9619e8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-19 11:54:24</sys_updated_on>
+        <sys_updated_on>2017-06-30 08:23:21</sys_updated_on>
         <table/>
         <type>page</type>
         <url/>

@@ -8,20 +8,21 @@
         <kb_knowledge_base/>
         <kb_knowledge_page/>
         <login_page display_value="rtt_formula_search">4b01d584db233200e020f8fdbf96196d</login_page>
-        <logo/>
+        <logo>21800167db233200e020f8fdbf9619d2.iix?t=m</logo>
         <notfound_page/>
         <quick_start_config/>
         <sc_catalog/>
         <sc_catalog_page display_value="rtt_formula_search">4b01d584db233200e020f8fdbf96196d</sc_catalog_page>
+        <sc_category_page/>
         <sp_chat_queue/>
-        <sp_rectangle_menu/>
+        <sp_rectangle_menu display_value="RTT Header Menu">a5849948db233200e020f8fdbf96197a</sp_rectangle_menu>
         <sqanda_knowledge_base/>
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-19 11:41:33</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_id>8e02d108db233200e020f8fdbf961950</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>RTT</sys_name>
         <sys_package display_value="RTT" source="x_98145_rtt">b77c0dc0db233200e020f8fdbf9619e1</sys_package>
         <sys_policy/>
@@ -29,10 +30,46 @@
         <sys_scope display_value="RTT">b77c0dc0db233200e020f8fdbf9619e1</sys_scope>
         <sys_update_name>sp_portal_8e02d108db233200e020f8fdbf961950</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-19 11:44:58</sys_updated_on>
+        <sys_updated_on>2017-06-30 07:23:43</sys_updated_on>
         <theme/>
         <title>RTT</title>
         <url_suffix>RTT</url_suffix>
     </sp_portal>
     <sys_translated_text action="delete_multiple" query="documentkey=8e02d108db233200e020f8fdbf961950"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <image_height>53</image_height>
+        <image_width>120</image_width>
+        <size_bytes>899</size_bytes>
+        <size_compressed>636</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-30 07:23:06</sys_created_on>
+        <sys_id>21800167db233200e020f8fdbf9619d2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-30 07:23:06</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>8e02d108db233200e020f8fdbf961950</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="21800167db233200e020f8fdbf9619d2">21800167db233200e020f8fdbf9619d2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-30 07:23:06</sys_created_on>
+        <sys_id>29800167db233200e020f8fdbf9619d2</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSFUBsysEMJPfW3AcKMBoF+IS4ArmMFgtGEfHom2n9PWCopZYE+QUzMOgWFSbzsoQU50o7Zj6U4zzwzX6aQ8yjB29+PT7GvuLJ19/fnVqefvz7/AdP7M/TGvKMYsvMZQ1vCHW/lFE7flf4QrkSR8mMiarMM61eJyTGf6j6N2X+woYefu2stD/3M/yy7dK3fGryPzW/1gAYS7M9XRxDIg6/vZ4Z3BQgwpbQH+BVsTNqR6pr1rYbTUvTZr7tnjr1beDMW4f+/+dmtaicKZK0hf/sne+PZ5ZXpOkVSMToSYHAc0bzw/94jA045PSPR7VJPmKsMVOdVuicLrFyrlLCB/aQ2Tz9DB1lqqKBMw795+T7xtR+yEklK6vvWMsHCf7HwpMUfIQ+7xAR3OLx8ZrCRJYZXpwTMxeZGGdPOVRcViCVXFfX2CI+fcOZaoXNOsl7nOY5mbXvn3R6vVCB47E/UoFR/GJbhe5p3Dxg9c57QsGB/7Gmc5+kBc4/fK1M+hq7tYvmtuwzt8xPcflZNX3/xu9i2+5+96GRlZnXI8/zHzTDLa3XP6mPOc4SH7I1SGxX9rlE3emvpprmTFln/LctNHRLe+jXtkO2B38xTcxbm1jbuOTdr18FL7ld9m1v+8qqJP6La/u95Omqd6r668XTZ6/2N7DReBFYo/QwfduylksBdYECWoKfM7a2BexN3GVg8mrFT68p9+7N5tCUl4u+9zH94p+Q8p86Qu1uiVzBP94nttd3zznPU/4n+smeb9wtbUBwzGr+zdBzaa3F+qHAdMHg6ernss4poQkAJDqp4IMDAAA=</data>
+        <length>836</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="21800167db233200e020f8fdbf9619d2">21800167db233200e020f8fdbf9619d2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-30 07:23:06</sys_created_on>
+        <sys_id>a9800167db233200e020f8fdbf9619d2</sys_id>
+    </sys_attachment_doc>
 </record_update>

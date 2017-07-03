@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="RTT Initiative Profiles" max_length="40" name="x_98145_rtt_rtt_initiative_profiles" type="collection">
-        <element display="true" label="Creative" max_length="40" name="creative" type="boolean"/>
-        <element label="Initiative Profile Title" mandatory="true" max_length="240" name="initiative_profile_title" type="string"/>
+        <element label="Creative" max_length="40" name="creative" type="boolean"/>
+        <element display="true" label="Initiative Profile" mandatory="true" max_length="240" name="initiative_profile_title" type="string"/>
         <element label="Pre-Screen" max_length="40" name="pre_screen" type="boolean"/>
         <element label="RTT New" max_length="40" name="rtt_new" type="boolean"/>
         <element label="Run Workflow" max_length="40" name="run_workflow" type="boolean"/>
